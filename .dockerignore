@@ -1,0 +1,8 @@
+venv
+logs
+MLOPS_CICD_CIRCLECI.egg-info
+src
+notebook
+artifacts/processed
+artifacts/raw
+pipeline
